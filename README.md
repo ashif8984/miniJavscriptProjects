@@ -1,0 +1,2 @@
+# miniJavscriptProjects
+Contains Javascripts projects
